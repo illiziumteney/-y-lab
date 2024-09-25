@@ -9,6 +9,8 @@
 - У вкладки “О компании” [link](https://drive.google.com/file/d/1fSPgT9usn6gEBGcQcnKaBlcWuJkBI-88/view?usp=sharing) определите цвет используемого шрифта. В ответе укажите его в формате r,g,b.
 
 
+[Ответ на задание 1](https://github.com/illiziumteney/y-lab/blob/main/homework_3/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.md)
+
 
 2. Для API https://api.nasa.gov/planetary/apod
 
