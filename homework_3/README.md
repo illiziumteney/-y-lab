@@ -29,6 +29,8 @@
 3. К какому виду идентификаторов ресурсов в сети относится https://www.yandex.ru/search/?text=test
 
 
+[Ответ на задание 3](https://github.com/illiziumteney/y-lab/blob/main/homework_3/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3.md)
+
 
 4. Верно ли утверждение, что структура HTTP-запроса равна структуре HTTP-ответа.
 
