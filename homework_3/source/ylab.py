@@ -5,8 +5,6 @@ time1 = datetime.date(1995, 6, 16)
 time2 = datetime.date(1996, 6, 17)
 url = "https://api.nasa.gov/planetary/apod"
 
-
-
 t1 = time1
 nod = 0
 while t1 != time2:
